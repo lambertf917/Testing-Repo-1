@@ -1,1 +1,1 @@
-The testing repo 1 frontend source code for our solution is completely open source. However the API and backend is proprietary and can be accessed via a paid license. For more details <a href="www.enatega.com" target="_blank">click here.</a>
+The testing repo 1 frontend source code for our solution is completely open source. However the API and backend is proprietary and can be accessed via a paid license. For more details <a href="www.enatega.com" target="_blank">click here.</a> undefined
